@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/src/java/command/produto/BuscarProdutoAction.java</file>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/src/java/command/tipo/BuscarTipoAction.java</file>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/web/cadastros/produto/excluir_produto.jsp</file>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/web/cadastros/produto/lista_produto.jsp</file>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/src/java/command/produto/ExcluirProdutoAction.java</file>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/src/java/controller/ControllerProduto.java</file>
+            <file>file:/home/guilherme/NetBeansProjects/exercicioCrud/src/java/dao/produto/ProdutoDao.java</file>
+        </group>
+    </open-files>
+</project-private>
